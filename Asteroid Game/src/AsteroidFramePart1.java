@@ -37,7 +37,7 @@ public class AsteroidFramePart1 extends JFrame implements ActionListener, MouseM
 
 		// sets size
 		setSize(500, 500);
-		setTitle("Asteroid Game - Jaffer Razavi");
+		setTitle("Asteroid Game - Jaffer");
 
 		// makes sure there is no layout applied
 		background.setLayout(null);

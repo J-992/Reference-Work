@@ -13,7 +13,6 @@ import javax.swing.Timer;
  * Name: Jaffer Razavi
  * 
  * Date: January 26, 2021
- * Course code: ICS3U1-56 - Mr.Fernandes
  * Purpose: To create an maze game, where the user has to collect coins
  * Extra features:
  * 		 1 - Music

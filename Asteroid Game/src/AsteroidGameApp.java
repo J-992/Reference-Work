@@ -1,6 +1,5 @@
 /*
- * jaffer razavi
- * ics3u
+ * jaffer r
  * oct 28 2020
  * 
  */
